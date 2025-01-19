@@ -7,3 +7,5 @@ I'm currently Configuring everything and should have it up and running tomorrow.
 Going to add Wireguard VPN and Wake-On-Lan to be able to access the server from anywhere.
 
 I'll document the process on this github project to be able to showcase it on my portfolio website.
+
+1/19/2025 10:47 - Set up Proxmox for virtualization. 
