@@ -5,3 +5,5 @@ I've started the process of building a cybersecurity homelab, and the first thin
 I'm currently Configuring everything and should have it up and running tomorrow.
 
 Going to add Wireguard VPN and Wake-On-Lan to be able to remote access into my machines.
+
+I'll document the process on this github project to be able to showcase it on my portfolio website.
