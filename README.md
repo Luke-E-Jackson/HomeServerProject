@@ -8,4 +8,6 @@ Going to add Wireguard VPN and Wake-On-Lan to be able to access the server from 
 
 I'll document the process on this github project to be able to showcase it on my portfolio website.
 
-1/19/2025 10:47 - Set up Proxmox for virtualization. 
+1/19/2025 10:47 am - Set up Proxmox for virtualization. 
+
+1/19/2025 12:16 pm - Set up Ubuntu Server LTS as a virtual machine and Samba for filesharing
