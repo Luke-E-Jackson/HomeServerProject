@@ -17,3 +17,8 @@ I also resized the partition on the virtual machine so it'd be more useful for f
 which is a lightweight video player that's compatible with many operating systems.
 
 1/19/2025 2:07 pm - Set up WireGuard VPN
+
+2/18/2025 N/A - Discovered a cryptojacking virus on my laptop while reorganizing files and checking system resource usage in task manager. The virus went undetected by antivirus scans, but was
+remediated fairly easily by factory reseting my laptop and restoring to a secure backup.
+
+3/7/2025 11:30 pm - Set up AdGuard Home on proxmox and configured DNS Block list. 
